@@ -19,6 +19,4 @@ Web3, Backend dev, Cybersec.
 www.linkedin.com/in/grace-karol-huertas
 
 <div align="left">
-### Show some ❤️ by starring some of the repositories!
-
 </div>
