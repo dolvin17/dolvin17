@@ -1,6 +1,6 @@
 # Hello World 
 
-[![ghuertas's 42 stats]([![ghuertas's 42 stats](https://badge42.vercel.app/api/v2/cl6z6v8ln01190gmmomc0sqi9/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
+([![ghuertas's 42 stats](https://badge42.vercel.app/api/v2/cl6z6v8ln01190gmmomc0sqi9/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
 ## So_long
 [![ghuertas's 42 so_long Score](https://badge42.vercel.app/api/v2/cl6z6v8ln01190gmmomc0sqi9/project/2644047)](https://github.com/JaeSeoKim/badge42)
 
@@ -18,7 +18,7 @@ Web3, Backend dev, Cybersec.
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 www.linkedin.com/in/grace-karol-huertas
 
-<div align="center">
+<div align="left">
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
