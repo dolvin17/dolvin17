@@ -8,6 +8,9 @@
 ## Libft [![ghuertas's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6z6v8ln01190gmmomc0sqi9/project/2536424)](https://github.com/JaeSeoKim/badge42)
 ## 📚 Learning
 Web3, Backend dev, Cybersec.
+
+[![View my repos](https://github-readme-stats.vercel.app/api/top-langs?username=dolvin17&locale=en&layout=compact)](https://github.com/dolvin17?tab=repositories)
+
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 www.linkedin.com/in/grace-karol-huertas
 <div align="left">
