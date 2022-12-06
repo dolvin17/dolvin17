@@ -7,7 +7,7 @@
 ## Born to be root [![ghuertas's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl6z6v8ln01190gmmomc0sqi9/project/2563138)](https://github.com/JaeSeoKim/badge42)
 ## Libft [![ghuertas's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6z6v8ln01190gmmomc0sqi9/project/2536424)](https://github.com/JaeSeoKim/badge42)
 ## 📚 Learning
-Web3, Backend dev, Cybersec.
+Web3, Backend dev.
 
 [![View my repos](https://github-readme-stats.vercel.app/api/top-langs?username=dolvin17&locale=en&layout=compact)](https://github.com/dolvin17?tab=repositories)
 
