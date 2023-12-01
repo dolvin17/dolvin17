@@ -1,6 +1,5 @@
-# Hello World 
 ## 📚 Learning
-Web3, Backend dev.
+Web3, Frontent dev.
 
 [![View my repos](https://github-readme-stats.vercel.app/api/top-langs?username=dolvin17&locale=en&layout=compact)](https://github.com/dolvin17?tab=repositories)
 
